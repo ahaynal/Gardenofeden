@@ -9,7 +9,8 @@
   <style>
     body { font-family: 'Segoe UI', system-ui, sans-serif; }
     .hero-bg {
-      background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.55)), url('https://picsum.photos/id/1015/2000/1200');
+      background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.55)), 
+        url('https://picsum.photos/id/1015/2000/1200');
       background-size: cover;
       background-position: center;
     }
